@@ -35,7 +35,7 @@ const Footer = () => {
           <div className="flex flex-col gap-6">
             <p className="text-base w-full xl:w-[80%]">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim sint
-              ab ullam, numquam nesciunt in.
+              ab ullam.
             </p>
             <ul className="flex items-center gap-2">
               <a
